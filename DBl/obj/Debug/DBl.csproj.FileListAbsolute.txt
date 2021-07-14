@@ -1,0 +1,6 @@
+C:\Users\nathan\source\repos\STUD\DBl\bin\Debug\DBl.dll
+C:\Users\nathan\source\repos\STUD\DBl\bin\Debug\DBl.pdb
+C:\Users\nathan\source\repos\STUD\DBl\obj\Debug\DBl.csprojAssemblyReference.cache
+C:\Users\nathan\source\repos\STUD\DBl\obj\Debug\DBl.csproj.CoreCompileInputs.cache
+C:\Users\nathan\source\repos\STUD\DBl\obj\Debug\DBl.dll
+C:\Users\nathan\source\repos\STUD\DBl\obj\Debug\DBl.pdb
